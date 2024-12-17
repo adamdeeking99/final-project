@@ -10,11 +10,12 @@ export default function Home() {
       <h1>ha</h1>
       <h1>ha</h1>
      
-      <Link href="logIn.tsx">Log-in</Link>
-   <Image  src="shopping-cart.png" 
+      <Link href="/Login">Log-in</Link>
+  
+   <Image  src="/shopping-cart.png" 
            alt= "shopping cart"
            width={200}
-           height={200}/>
+           height={200}/> 
     </div>
 
 
