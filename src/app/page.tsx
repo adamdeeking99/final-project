@@ -6,9 +6,9 @@ export default function Home() {
     <div>
     
     <div>
-      <div></div>
-      <h1>ha</h1>
-      <h1>ha</h1>
+      
+    <Link href="/src/app">Welcome</Link>
+      <h1>Whats new</h1>
      
       <Link href="/Login">Log-in</Link>
   
@@ -17,7 +17,11 @@ export default function Home() {
            width={200}
            height={200}/> 
     </div>
-
+    <div>
+    <link></link>
+    <link></link>
+    <link></link>
+    </div>
 
     </div>
    

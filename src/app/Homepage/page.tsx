@@ -1,12 +1,8 @@
 
 
-export default async function Page() {
+function Header(){
+return
 
-return (
-<h1>blah</h1>
-
-);
 
 
 }
-
