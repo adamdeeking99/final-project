@@ -85,6 +85,13 @@ button.login-btn:hover {
   
   font-size: 30px;
   float: left;
-  
+  padding-left: 140px;
+
  
+}
+
+#Title{
+  font-size: 75px;
+  text-align: center;
+  
 }

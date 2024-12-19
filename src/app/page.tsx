@@ -4,16 +4,16 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-    <title>Sale Finder</title>
-    <div><h1>Sale Finder</h1></div>
-    <div id="top">
+    <title >Sale Finder</title>
+    <div><h1 id="Title">Sale Finder</h1></div>
+    <div >
       
-    <Link  href="/src/app">Welcome</Link>
-      <h1>Whats new</h1>
+    <Link id="top" href="/src/app">Welcome</Link>
+      <h1 id="top">Whats new</h1>
      
-      <Link  href="/Login">Log-in</Link>
+      <Link id="top" href="/Login">Log-in</Link>
   
-   <Image  src="/shopping-cart.png" 
+   <Image id="top" src="/shopping-cart.png" 
            alt= "shopping cart"
            width={200}
            height={200}/> 
